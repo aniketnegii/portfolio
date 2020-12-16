@@ -211,6 +211,23 @@ textarea {
 
 /*foooter starts*/
 
+.foot a:hover{
+  text-decoration: underline!important;
+}
+.foot a{
+  color:white!important;
+  text-shadow: white;
+  text-decoration: none!important;
+}
+.foot small{
+  color:white!important;
+  text-shadow: white;
+}
+.foot h5{
+  color:white;
+  font-weight: bold;
+}
+
 /*footer ends */
 
 /*// Extra small devices (portrait phones, less than 576px)
